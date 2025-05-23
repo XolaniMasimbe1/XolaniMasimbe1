@@ -18,8 +18,8 @@ This digital portfolio reflects my **professional development**, **career planni
 ## 🧭 **1. Career Counselling**
 
 ### 🗂️ Evidence  
-- 📸 ![Career Session Screenshot](#)  
-- 📄 [Download: Career Session Summary (PDF)](#)
+- 📸 ![Career Development picture](https://github.com/user-attachments/assets/2af0a88e-3bbe-47af-9b14-2f48680665ad)
+
 
 ### ✨ Reflection – Using STAR  
 - **S**ituation: I participated in a career alignment session to explore suitable tech paths.  
@@ -34,9 +34,12 @@ This digital portfolio reflects my **professional development**, **career planni
 ## 🚀 **2. Skills & Interests**
 
 ### 🗂️ Evidence  
-- 📄 [Download: Skills Audit (PDF)](#)  
-- 📊 [Interest Survey Results](#)  
-- 🧠 [My Personal Skill Tree Diagram](#)
+- 📄 ![Skills   Interests](https://github.com/user-attachments/assets/a9ba5f54-5a75-4187-abf4-dcff93ec65fc)
+  
+- 📊 ![image](https://github.com/user-attachments/assets/2bc685e2-3f87-46ce-af69-47858f0d0118)
+ 
+- 🧠 ![image](https://github.com/user-attachments/assets/bb487435-068e-414f-b00b-867be27aa888)
+
 
 ### ✨ Reflection – Using STAR  
 - **S**ituation: I felt unsure how to align my interests with a defined ICT path.  
@@ -51,9 +54,9 @@ This digital portfolio reflects my **professional development**, **career planni
 ## 🧬 **3. Personality Assessment**
 
 ### 🗂️ Evidence  
-- 📸 ![MBTI Result Screenshot](#)  
-- 📄 [Download: Full MBTI/DISC Report](#)
-
+- 📸 ![Personality Assement](https://github.com/user-attachments/assets/3a7dc196-d512-442c-bc72-2ff562fcdb0d)
+ 
+- 📄 https://drive.google.com/file/d/1WCOYF3oosDPOqwAP2nWjGKy6LFSuwV8V/view?usp=sharing
 ### ✨ Reflection – Using STAR  
 - **S**ituation: I wanted to understand my collaboration style and workplace personality.  
 - **T**ask: Take a reliable personality assessment.  

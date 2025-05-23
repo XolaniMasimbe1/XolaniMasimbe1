@@ -70,8 +70,9 @@ This digital portfolio reflects my **professional development**, **career planni
 ## 📄 **4. CV Creation**
 
 ### 🗂️ Evidence  
-- 📎 [Download My CV (PDF)](#)  
-- 📸 ![CV Design Preview](#)
+- 📎 Xolani Masimbe CV.pdf  
+- 📸 ![CV PREVIEW](https://github.com/user-attachments/assets/ae868334-4fad-4f6d-885d-3f85c6c853ad)
+
 
 ### ✨ Reflection – Using STAR  
 - **S**ituation: My old CV lacked clarity and visual appeal.  
@@ -86,7 +87,8 @@ This digital portfolio reflects my **professional development**, **career planni
 ## 📤 **5. CV Submission**
 
 ### 🗂️ Evidence  
-- 📧 [Screenshot of Submission Confirmation](#)  
+- 📧 ![Submission confirmation](https://github.com/user-attachments/assets/4bb49e22-60a5-4b94-8326-5cceccdc1171)
+ 
 - 📄 [PDF of Email or LinkedIn Post](#)
 
 ### ✨ Reflection – Using STAR  
@@ -104,9 +106,9 @@ This digital portfolio reflects my **professional development**, **career planni
 This portfolio is more than just a task—it's the story of how I’m building my future through conscious choices, strategic growth, and authentic self-awareness.
 
 ### 🙌 Let’s Connect:  
-- 🔗 [LinkedIn Profile](#)  
-- 💌 [Email Me](#)  
-- 🌐 [Visit My GitHub Portfolio](#)
+- 🔗 www.linkedin.com/in/xolani-masimbe-177890234  
+- 💌 xmasimbe965@gmail.com  
+
 
 ---
 

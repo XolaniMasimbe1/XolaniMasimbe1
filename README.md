@@ -89,7 +89,7 @@ This digital portfolio reflects my **professional development**, **career planni
 ### 🗂️ Evidence  
 - 📧 ![Submission confirmation](https://github.com/user-attachments/assets/4bb49e22-60a5-4b94-8326-5cceccdc1171)
  
-- 📄 [PDF of Email or LinkedIn Post](#)
+- 📄 Email Confirmation.pdf
 
 ### ✨ Reflection – Using STAR  
 - **S**ituation: I targeted a company looking for frontend developers.  
